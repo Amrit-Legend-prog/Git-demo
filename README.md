@@ -1,4 +1,4 @@
 # Git-demo
 This is my first demo
 <br>
-Author - Amrit
+Author - Amrit (LNMIIT)
